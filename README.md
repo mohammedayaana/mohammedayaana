@@ -58,23 +58,6 @@
 
 <!-- Version 3
  -->
- <h3 align="left">Languages and Tools I'm familiar with:</h3>
- 
- [![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,mysql,html,css,js)]()
- <br/>
- <br/>
- [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,sts,notion)]()
- 
-<!-- [![Afzhal Ahmed's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=afzhal-ahmed-s&theme=tokyonight)](https://git.io/praveenscience) -->
-
-| ![Afzhal Ahmed S's github stats](https://github-readme-stats.vercel.app/api?username=afzhal-ahmed-s&show_icons=true&theme=tokyonight) | ![Afzhal Ahmed S GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=afzhal-ahmed-s&theme=tokyonight) |
-| --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afzhal-ahmed-s&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=afzhal-ahmed-s&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
-
-
-
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=afzhal-ahmed-s" alt="afzhal-ahmed-s" /></a> </p> 
 
 
 
