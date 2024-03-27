@@ -1,6 +1,8 @@
 
 <h1 align="center">Kudos👋, It's Mohammed Ayaan here</h1>
 <div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Problem+Solver+by+nature;Java+Backend+Developer;Quick+and+a+Self+Learner&color=teal&center=true" />
+</div>
 <h3 align="center">As a fresher, I'm passionate about cloud technologies, HTML, and Python, aiming to leverage them to craft innovative solutions and drive impactful change.</h3>
 
 
